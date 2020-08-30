@@ -1,7 +1,7 @@
 ---
 layout: post
-title: MathJax Test
-date: 2017-07-30
+title: third post
+date: 2020-08-30
 categories: test
 tags: python 
 ---

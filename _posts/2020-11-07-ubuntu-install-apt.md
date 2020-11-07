@@ -46,9 +46,9 @@ apt:
 > sudo cat /etc/apt/sources.list
 
 
-> apt --help
-
 ```
+>>> apt --help
+
 apt 1.6.12ubuntu0.1 (amd64)
 Usage: apt [options] command
 
@@ -79,9 +79,11 @@ Security details are available in apt-secure(8).
 
 ```
 
-> apt-get --help
+> #### apt-get
 
 ```
+>>> apt-get --help
+
 apt 1.6.12ubuntu0.1 (amd64)
 Usage: apt-get [options] command
        apt-get [options] install|remove pkg1 [pkg2 ...]
@@ -117,9 +119,11 @@ Security details are available in apt-secure(8).
                                         This APT has Super Cow Powers.
 ```
 
-> apt-cache --help
+#### apt-cache
 
 ```
+>>> apt-cache --help
+
 apt 1.6.12ubuntu0.1 (amd64)
 Usage: apt-cache [options] command
        apt-cache [options] show pkg1 [pkg2 ...]

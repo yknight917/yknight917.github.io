@@ -13,7 +13,7 @@ tags: ubuntu
 
 
 
-#### 编辑`/etc/sudoers`文件：
+#### 编辑/etc/sudoers文件：
 
 > sudo visudo
 
@@ -28,6 +28,8 @@ tags: ubuntu
 
 
 
+
+------
 
 官方参考：https://help.ubuntu.com/community/RootSudo
 

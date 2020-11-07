@@ -19,10 +19,12 @@ tags: ubuntu linux
 
 - apt-config
 
-**apt apt-get apt-cache的区别：**
+**apt、apt-get、apt-cache的区别：**
 
 博客参考：https://blog.csdn.net/liudsl/article/details/79200134
+
 博客参考：https://www.sysgeek.cn/linux-package-management/
+
 博客参考：https://www.cnblogs.com/xwdreamer/p/3623454.html
 
 apt:
@@ -33,7 +35,7 @@ apt面向用户，适合交互使用，apt兼容部分apt-get，apt-cache，但�
 Debian机器衍生产品的包格式为.deb，直接安装.deb包时使用dpkg命令。
 
 **关于update**
-
+balabala...
 
 
 #### apt
@@ -145,6 +147,7 @@ Security details are available in apt-secure(8).
 ```
 
 > apt-config --help
+
 ```
 apt 1.6.12ubuntu0.1 (amd64)
 Usage: apt-config [options] command

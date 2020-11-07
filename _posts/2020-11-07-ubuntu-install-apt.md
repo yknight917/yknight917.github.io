@@ -23,7 +23,7 @@ tags: ubuntu linux
 
 博客参考：https://blog.csdn.net/liudsl/article/details/79200134
 博客参考：https://www.sysgeek.cn/linux-package-management/
-
+博客参考：https://www.cnblogs.com/xwdreamer/p/3623454.html
 
 apt:
 Debaian是Ubuntu、linux Mint和elementary OS等Linux操作系统的母版，使用的【包管理系统】为Advanced Packaging Tool（APT），注意，APT和apt命令不是指同一个东西。

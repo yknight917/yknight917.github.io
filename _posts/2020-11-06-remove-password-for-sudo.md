@@ -13,15 +13,15 @@ tags: ubuntu
 
 
 
-##### 编辑`/etc/sudoers`文件：
+#### 编辑`/etc/sudoers`文件：
 
-`sudo visudo`
+> sudo visudo
 
 
 
-##### 添加以下内容：
+#### 添加以下内容：
 
-`<username> ALL=NOPASSWD: ALL`
+> <username> ALL=NOPASSWD: ALL
 
 
 
@@ -30,4 +30,5 @@ tags: ubuntu
 
 
 官方参考：https://help.ubuntu.com/community/RootSudo
+
 博客参考：http://www.bjhee.com/ubuntu-sudoer.html 

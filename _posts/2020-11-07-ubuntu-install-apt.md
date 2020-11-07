@@ -35,6 +35,7 @@ apt面向用户，适合交互使用，apt兼容部分apt-get，apt-cache，但�
 Debian机器衍生产品的包格式为.deb，直接安装.deb包时使用dpkg命令。
 
 **关于update**
+
 balabala...
 
 

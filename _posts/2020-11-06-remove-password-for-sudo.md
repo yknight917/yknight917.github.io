@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Ubuntu取消sudo命令时输入密码'
+title: 'Ubuntu取消使用sudo命令时输入密码'
 date: 2020-11-06
 author: yknight
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'

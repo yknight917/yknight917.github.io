@@ -28,20 +28,21 @@ tags: ubuntu linux
 博客参考：https://www.cnblogs.com/xwdreamer/p/3623454.html
 
 apt:
-Debaian是Ubuntu、linux Mint和elementary OS等Linux操作系统的母版，使用的【包管理系统】为Advanced Packaging Tool（APT），注意，APT和apt命令不是指同一个东西。
+> Debaian是Ubuntu、linux Mint和elementary OS等Linux操作系统的母版，使用的【包管理系统】为Advanced Packaging Tool（APT），注意，APT和apt命令不是指同一个东西。
 
-apt面向用户，适合交互使用，apt兼容部分apt-get，apt-cache，但不完全兼容
+> apt面向用户，适合交互使用，apt兼容部分apt-get，apt-cache，但不完全兼容
 
-Debian机器衍生产品的包格式为.deb，直接安装.deb包时使用dpkg命令。
+> Debian机器衍生产品的包格式为.deb，直接安装.deb包时使用dpkg命令。
 
 **关于update**
 
-balabala...
+> balabala...
 
 
 #### apt
 
 > sudo apt edit-sources
+
 > sudo cat /etc/apt/sources.list
 
 
